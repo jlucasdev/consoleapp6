@@ -1,0 +1,14 @@
+E:\projetos\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+E:\projetos\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+E:\projetos\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+E:\projetos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.AssemblyReference.cache
+E:\projetos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+E:\projetos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+E:\projetos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
+D:\projetos\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+D:\projetos\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+D:\projetos\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+D:\projetos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.AssemblyReference.cache
+D:\projetos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+D:\projetos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+D:\projetos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
